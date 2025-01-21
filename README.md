@@ -2,12 +2,26 @@
 
 📄 Overview
 
-This project focuses on analyzing video game sales and trends using SQL for data extraction and manipulation, and Tableau for visualization. The objective is to explore key insights such as release trends, sales performance, and genre popularity across different years and platforms.
+This project focuses on analyzing video game sales and trends using SQL for data extraction and manipulation, and Tableau for visualization. The objective is to explore key insights such as release trends, sales performance, and genre popularity across different years and platforms. 
 
 📊 Features
 
 SQL Queries: Extracted and transformed data for meaningful analysis.
 Tableau Dashboards: Interactive visualizations showcasing trends and insights.
+
+
+##Dataset
+
+The data set contains information of video games from Year 1980 - 2023. 
+Kaggle: https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/code
+
+
+## Data Cleaning
+Duplicates were removed
+Blank Values were replaed with NULL 
+Certain Title containing accented characters were replaced in the original csv file before cleaning in SQL.  
+Additional Columm "Releaase_Date_Cleaned" was added to extract the date in proper YY-MM-DD format before importing into SQL 
+
 
 
 Key Analyses:
