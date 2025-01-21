@@ -6,13 +6,14 @@ This project focuses on analyzing video game sales and trends using SQL for data
 
 📊 Features
 
-SQL Queries: Extracted and transformed data for meaningful analysis.
-Tableau Dashboards: Interactive visualizations showcasing trends and insights.
+SQL Queries: Extracted and transformed data for meaningful analysis. VideoGamesQuery.sql
+Tableau Dashboard: https://public.tableau.com/app/profile/jesslyn.lee/viz/Book1_17374859012250/Dashboard3?publish=yes
 
 
-##Dataset
+## Dataset
 
 The data set contains information of video games from Year 1980 - 2023. 
+
 Kaggle: https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023/code
 
 
