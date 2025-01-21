@@ -7,6 +7,7 @@ This project focuses on analyzing video game sales and trends using SQL for data
 📊 Features
 
 SQL Queries: Extracted and transformed data for meaningful analysis. VideoGamesQuery.sql 
+
 [Tableau Dashboard](https://public.tableau.com/app/profile/jesslyn.lee/viz/Book1_17374859012250/Dashboard3?publish=yes)
 
 
