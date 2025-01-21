@@ -16,7 +16,7 @@ Performance analysis by genre and platform.
 Insights into regional sales distribution.
 
 📂 Project Root  
-├── VideoGamesQuery.sql                # SQL queries used for data extraction  
-├── dashboards.twbx            # Tableau workbook with all dashboards  
-├── games.csv       # Raw dataset used for the project  
-├── README.md                      # Project documentation (this file)
+├── VideoGamesQuery.sql      # SQL queries used for data extraction  
+├── dashboards.twbx          # Tableau workbook with all dashboards  
+├── games.csv                # Raw dataset used for the project  
+├── README.md                # Project documentation (this file)
