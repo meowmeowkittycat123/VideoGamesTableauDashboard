@@ -24,15 +24,23 @@ Blank Values were replaed with NULL
 Certain Title containing accented characters were replaced in the original csv file before cleaning in SQL.  
 Additional Columm "Releaase_Date_Cleaned" was added to extract the date in proper YY-MM-DD format before importing into SQL 
 
-
-
 Key Analyses:
-Monthly and yearly release trends.
-Performance analysis by genre and platform.
-Insights into regional sales distribution.
+Most popular genre
+Production of games released across time frame
+Top rated games
+Top rated companies 
 
+
+```
 📂 Project Root  
-├── VideoGamesQuery.sql      # SQL queries used for data extraction  
-├── dashboards.twbx          # Tableau workbook with all dashboards  
+├── VideoGamesQuery.sql      # SQL queries used for data extraction & cleaning  
+├── videogames.twb           # Tableau workbook with all dashboards  
 ├── games.csv                # Raw dataset used for the project  
 ├── README.md                # Project documentation (this file)
+
+```
+
+## Results
+
+
+
